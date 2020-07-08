@@ -22,6 +22,7 @@ Projeto criado para estudo de HTML e CSS. Desenvolvido no curso **Desenvolviment
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [Bootstrap](https://getbootstrap.com/)
+- [MediaQueries](https://mediaqueri.es/)
 
 ---
 
